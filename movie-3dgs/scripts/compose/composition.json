@@ -1,0 +1,25 @@
+{
+  "scene": {
+    "path": "output/scene/point_cloud/iteration_30000/point_cloud.ply",
+    "translate": [0, 0, 0],
+    "rotate": [0, 0, 180],
+    "scale": 1.0
+  },
+  "output": "output/composed3/point_cloud/iteration_30000/point_cloud.ply",
+  "objects": [
+    {
+      "name": "teddy",
+      "path": "output/teddy/point_cloud/iteration_30000/point_cloud.ply",
+      "translate": [0.45, -0.08, 2.43],
+      "rotate": [0, 0, 180],
+      "scale": 0.5
+    },
+    {
+      "name": "teapot",
+      "path": "output/teapot/point_cloud/iteration_30000/point_cloud.ply",
+      "translate": [-5, -2.05, -2.14],
+      "rotate": [-30, 0, -180],
+      "scale": 0.7
+    }
+  ]
+}
