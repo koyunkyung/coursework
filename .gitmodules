@@ -1,9 +1,0 @@
-[submodule "cam-calibration"]
-	path = cam-calibration
-	url = https://github.com/koyunkyung/cam-calibration.git
-[submodule "sfm-codes"]
-	path = sfm-codes
-	url = https://github.com/koyunkyung/sfm-codes.git
-[submodule "movie-3dgs"]
-	path = movie-3dgs
-	url = https://github.com/koyunkyung/movie-3dgs.git
